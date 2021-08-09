@@ -1,6 +1,8 @@
+<!--
 <a href="https://youtube.com/ImranSayedDev/?sub_confirmation=1" target="_blank">
 <img src="https://princegup42.github.io/img/about.jpg" alt="profile" />
 </a>
+-->
 ### Hi there 👋
 
 I'm Sumit Kumar from Jamshedpur, India. I currently Intern as a LAMP Developer at Forwardcode Techstudio. I have many years experience creating websites for both myself, and for clients. I have experience programming in many different languages such as C, C++, PHP and JavaScript, however some of my favourite projects involve working in Laravel Framework.
