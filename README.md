@@ -1,5 +1,5 @@
 <a href="https://www.youtube.com/channel/UCxMRP0F-KiEzN3j_MqTCKsw?sub_confirmation=1" target="_blank">
-<img src="[https://princegup42.github.io/img/about.jpg](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)" alt="profile" />
+<img src="https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif" alt="profile" />
 </a>
 <h1 align="center">Hi 👋, I'm Sumit Kumar</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
