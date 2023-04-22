@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/princegup42" target="blank"><img src="https://img.shields.io/twitter/follow/princegup42?logo=twitter&style=for-the-badge" alt="princegup42" /></a> </p>
 
-- 🔭 I’m currently working on **Forwardcode Techstudio**
+- 🔭 I’m currently working at **Forwardcode Techstudio**
 
 - 🌱 I’m currently learning **Frontend**
 
